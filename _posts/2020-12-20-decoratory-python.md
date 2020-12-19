@@ -147,6 +147,3 @@ print(hello())
 
 >>> <b><i>Hello World</i></b>
 ```
-
-
-<img src="/assets/img/2020-12-20-decoratory-python/1.png">
