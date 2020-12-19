@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Unix Less Command. Интерактивная справка Python
+title: Модификаторы  форматирования в Python
 comments: False
 category: python
 tags:
 ---
+
 # Модификаторы форматирования строк
 ## 1-й способ форматирования через плейсхолдеры
 
