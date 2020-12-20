@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Классы и объекты, Наследование, Композиция классов в Python (Coursera. Погружение в Python)
+title: Классы и объекты, Наследование, Композиция классов в Python (Crs. Погружение в Python)
 comments: False
 category: python
 tags:

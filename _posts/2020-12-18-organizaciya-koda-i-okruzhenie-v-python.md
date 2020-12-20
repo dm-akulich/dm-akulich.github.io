@@ -1,13 +1,10 @@
 ---
 layout: post
-title: Организация кода, модули и пакеты и т.п.. Виртуальное окружение
+title: Организация кода, модули и пакеты и т.п.. Виртуальное окружение (Crs. Погружение в Python)
 comments: False
 category: python
 tags:
 ---
-
-<img src="/assets/img/2020-12-18-organizaciya-koda-i-okruzhenie-v-python/1.png">
-
 
 Модули в Python - код в .py файлах.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Модификаторы  форматирования в Python
+title: Модификаторы форматирования в Python (Crs. Погружение в Python)
 comments: False
 category: python
 tags:

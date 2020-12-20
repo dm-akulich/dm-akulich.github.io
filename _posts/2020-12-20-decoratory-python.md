@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Декораторы в Python (Coursera. Погружение в Python)
+title: Декораторы в Python (Crs. Погружение в Python)
 comments: False
 category: python
 tags:
