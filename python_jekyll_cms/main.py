@@ -71,7 +71,7 @@ def main():
 
         elif main_sel == 4:  # Git Update
             os.system('cd {} \
-                    && git add . && git commit -m "post" && git push origin master && echo Updated Successfully'.format(
+                    && git add . && git commit -m "post" && git push origin main && echo Updated Successfully'.format(
                 blog_path))
             input('press enter to get back')
             time.sleep(5)
