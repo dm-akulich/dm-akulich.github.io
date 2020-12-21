@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Генераторы в Python (Coursera. Погружение в Python)
+title: Генераторы в Python (Crs. Погружение в Python)
 comments: False
 category: python
 tags:
