@@ -55,7 +55,7 @@ def main():
         if main_sel == 0:  # "Add new post"
             print("Add New Post Selected")
             add_post(blog_path, post_categories)
-            time.sleep(1)
+            time.sleep(0)
 
         elif main_sel == 1:  # Image Compressor
             crawler(input('Input full path to directory with images\n'))
@@ -73,8 +73,8 @@ def main():
             os.system('cd {} \
                     && git add . && git commit -m "post" && git push origin main && echo Updated Successfully'.format(
                 blog_path))
-            input('press enter to get back')
-            time.sleep(5)
+            input('press enter to exit')
+            time.sleep(0)
 
         elif main_sel == 5:  # All Posts
             show_all_posts(blog_path)

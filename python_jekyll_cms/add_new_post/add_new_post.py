@@ -25,7 +25,7 @@ def add_post(path_to_blog, categories):
                 print('Available categories')
                 for e, key in categories_dict.items():
                     print('[' + str(e) + ']', key)
-                chosen_category = int(input("What is category?"))
+                chosen_category = int(input("What is category?\n"))
                 sample_content = '---\nlayout: post\ntitle: Заголовок Поста \ncomments: False\ncategory: {1}\ntags:\n---\n\n<img src="/assets/img/{0}/1.png">'.format(post_name, \
                                                                                                                                                                   categories_dict[chosen_category])
                 f.write(sample_content)
